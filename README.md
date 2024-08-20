@@ -4,7 +4,7 @@ Para visualizar la pagina desplegada en GitHub Pages puedes dar click en el sigu
 
 # 🎨 ¡Generador de Colores Aleatorios! 🎨
 
-![image](https://github.com/user-attachments/assets/be885762-fad9-4259-9d49-7828660eb002)
+[![image](https://github.com/user-attachments/assets/be885762-fad9-4259-9d49-7828660eb002)](https://mateodevcode.github.io/color-aleatorio)
 
 ¡Hola! 😄 Estoy emocionado de compartir con ustedes mi aplicación web sencilla que te permite generar colores aleatorios con solo hacer clic en un botón. Es una herramienta perfecta si necesitas inspiración de colores o simplemente quieres divertirte explorando nuevas combinaciones. 🌈
 
