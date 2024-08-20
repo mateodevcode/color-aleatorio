@@ -21,30 +21,31 @@ body {
 /* Contenedor  */
 
 #contenedor {
-  height: 220px;
-  width: 450px;
+  height: 200px;
+  width: 300px;
   background-color: white;
   border: 5px solid black;
   flex-wrap: wrap;
   flex-direction: column;
+  border-radius: 30px;
 }
 
 /* Texto */
 
 #color {
-  font-size: 70px;
+  font-size: 40px;
   font-weight: bold;
 }
 
 /* Boton */
 
 button {
-  font-size: 30px;
+  font-size: 20px;
   color: white;
-  border-radius: 20px;
+  border-radius: 10px;
   background-color: #008CBA;
-  margin: 15px;
-  padding: 10px 30px;
+  margin: 20px;
+  padding: 10px 20px;
   border: 3px solid #008CBA;
   user-select: none;
   transition-duration: 0.4s;
